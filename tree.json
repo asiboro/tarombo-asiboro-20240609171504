@@ -1,0 +1,32 @@
+{
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "17:14:37",
+      "value": "9 JUN 2024"
+    },
+    "file": "3.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Japanese",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.0 (57cfbea)"
+    }
+  },
+  "people": [
+    {
+      "id": "I1*ddb0515e-a261-41a2-a4ed-0a06adcc027a",
+      "names": [
+        {
+          "value": "person 1\u0027s name //"
+        }
+      ]
+    }
+  ]
+}
