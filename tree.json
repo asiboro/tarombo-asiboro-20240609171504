@@ -96,6 +96,12 @@
         {
           "value": "person 3\u0027s name //"
         }
+      ],
+      "eventsFacts": [
+        {
+          "date": "1 JAN 2001",
+          "tag": "BIRT"
+        }
       ]
     }
   ]
