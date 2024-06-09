@@ -59,6 +59,12 @@
         {
           "value": "person 2\u0027s name //"
         }
+      ],
+      "eventsFacts": [
+        {
+          "date": "1 JAN 2000",
+          "tag": "BIRT"
+        }
       ]
     }
   ]
