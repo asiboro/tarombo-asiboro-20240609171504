@@ -12,6 +12,19 @@
         }
       ],
       "id": "F1*6b81331b-0482-4338-bcf6-e379cd82b8c0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I3*5cd25822-3650-46fa-a31f-d4439cf3c708"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I2*5ebb3388-c8a0-459d-9c80-46830739b330"
+        }
+      ],
+      "id": "F2*fef0cb60-e234-4df7-8942-9ae5c7a9044f"
     }
   ],
   "head": {
@@ -54,10 +67,40 @@
           "ref": "F1*6b81331b-0482-4338-bcf6-e379cd82b8c0"
         }
       ],
+      "fams": [
+        {
+          "ref": "F2*fef0cb60-e234-4df7-8942-9ae5c7a9044f"
+        }
+      ],
       "id": "I2*5ebb3388-c8a0-459d-9c80-46830739b330",
       "names": [
         {
           "value": "person 2\u0027s name //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "date": "1 JAN 2000",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*fef0cb60-e234-4df7-8942-9ae5c7a9044f"
+        }
+      ],
+      "id": "I3*5cd25822-3650-46fa-a31f-d4439cf3c708",
+      "names": [
+        {
+          "value": "person 3\u0027s name //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "date": "1 JAN 2001",
+          "tag": "BIRT"
         }
       ]
     }
