@@ -94,13 +94,17 @@
       "id": "I3*5cd25822-3650-46fa-a31f-d4439cf3c708",
       "names": [
         {
-          "value": "person 3\u0027s name //"
+          "value": "connector"
         }
       ],
       "eventsFacts": [
         {
           "date": "1 JAN 2001",
           "tag": "BIRT"
+        },
+        {
+          "tag": "_CONN",
+          "value": "asiboro/tarombo-asiboro-20240609175004"
         }
       ]
     }
